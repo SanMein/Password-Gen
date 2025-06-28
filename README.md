@@ -43,8 +43,10 @@ print(generate_password("wararsmirrr", "com", importance=5, version=0))`
 ### Примеры вывода
 Вход: `site_name="wararsmirrr", domain="com", importance=5, version=0`
 `WAMR-aB9k2-OCM-V0-!`
+
 Вход: `site_name="wararsmirrr", domain="com", importance=5, version=0` (повторный запуск)
 `AAMR-p7q3w-MOC-V0-@`
+
 Вход: `site_name="", domain="", importance=5, version=0`
 `K7P4-x9m2n-X9Q-V0-#`
 
