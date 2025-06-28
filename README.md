@@ -47,6 +47,12 @@ Input: `site_name="wararsmirrr", domain="com", importance=5, version=0`
 
 Input: `site_name="wararsmirrr", domain="com", importance=5, version=0` (repeated run)
 
+`AAMR-p7q3w-MOC-V0-@`;
+
+Input: `site_name="", domain="", importance=5, version=0`
+
+`K7P4-x9m2n-X9Q-V0-#`.
+
 
 # Описание (Русский)
 ***Password Generator*** — это простой Python-скрипт для генерации уникальных паролей на основе заданного шаблона. Проект разработан для создания безопасных и структурированных паролей, которые подходят для различных сайтов и сервисов. Шаблон пароля включает пять компонентов: код сайта (сервиса), случайный код, индекс домена, версию пароля и специальный символ. Генерация учитывает название сайта (или сервиса), домен, уровень важности и версию пароля, обеспечивая вариативность и уникальность.
@@ -99,11 +105,5 @@ print(generate_password("wararsmirrr", "com", importance=5, version=0))`
 `AAMR-p7q3w-MOC-V0-@`;
 
 Вход: `site_name="", domain="", importance=5, version=0`
-
-`K7P4-x9m2n-X9Q-V0-#`.
-
-`AAMR-p7q3w-MOC-V0-@`;
-
-Input: `site_name="", domain="", importance=5, version=0`
 
 `K7P4-x9m2n-X9Q-V0-#`.
