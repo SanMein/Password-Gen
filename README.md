@@ -92,10 +92,13 @@ print(generate_password("wararsmirrr", "com", importance=5, version=0))`
 
 ### Example Output
 Input: `site_name="wararsmirrr", domain="com", importance=5, version=0`
+
 `WAMR-aB9k2-OCM-V0-!`:
 
 Input: `site_name="wararsmirrr", domain="com", importance=5, version=0` (repeated run)
+
 `AAMR-p7q3w-MOC-V0-@`:
 
 Input: `site_name="", domain="", importance=5, version=0`
+
 `K7P4-x9m2n-X9Q-V0-#`
